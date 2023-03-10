@@ -15,3 +15,24 @@ The dataset is made up of the following columns:
 - Embarked – Where each passenger embarked on the ship.
 - Survived - If the passenger survived or not.
 # Data Cleaning
+Data cleaning was done using Power BI.
+-  Cleaning Pclass column
+I changed values 1, 2, 3 to 1st class, 2nd class, 3rd class respectively and renamed column to Passenger Class.            
+Procedure: add column tab-column from examples-replace value then click CTRL+ENTER.
+- Cleaning Name column
+Column split into three columns namely Title, Other names and Surname.
+Procedure: surname was first separated by transform tab-split column-by delimiter “comma” “left most delimiter” options then title was separated from other names by transform tab-split column-by delimiter “.” “left most delimiter” options.
+- Cleaning Sex column
+Renaming Sex Column to Gender
+- Cleaning SibSp and Parch columns
+Forming new column “Family size” by merging these columns.
+Procedure: add column tab-custom column-enter new column name “Family size” and custom column formula = [SibSp] + [Parch] + 1.
+- Cleaning Ticket column
+Removing extra spaces in all records in Ticket column.
+Procedure: add column tab-format-trim.
+- Cleaning Embarked column.
+Replace values S with Southampton, C with Cherbourg and Q with Queenstown.
+Procedure: Select column-right click-click “replace value”-enter “value to find” and “replace with”
+- Cleaning Survived column
+Renamed it to Survival and replaced values 0 with died and 1 with survived.
+Procedure: add column tab-column from examples-replace value then click CTRL+ENTER.
