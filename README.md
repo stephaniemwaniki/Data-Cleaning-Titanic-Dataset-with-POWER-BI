@@ -1,4 +1,5 @@
 # DATASET: Titanic dataset
+[Titanic Data.xlsx](https://github.com/stephaniemwaniki/Data-cleaning-Titanic-Dataset-with-POWER-BI/files/10944000/Titanic.Data.xlsx)
 # Dataset Overview
 I did data cleaning on the Titanic dataset which comprises of information about 891 passengers who were in the Titanic ship that sank in 1912.
 The dataset is made up of the following columns:
@@ -51,4 +52,4 @@ The new dataset formed has the following columns:
 - Cabin
 - Embarked
 - Survival
-[Titanic Data.xlsx](https://github.com/stephaniemwaniki/Data-cleaning-Titanic-Dataset-with-POWER-BI/files/10944000/Titanic.Data.xlsx)
+
