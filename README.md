@@ -14,3 +14,4 @@ The dataset is made up of the following columns:
 - Cabin – Cabin number of each passenger.
 - Embarked – Where each passenger embarked on the ship.
 - Survived - If the passenger survived or not.
+# Data Cleaning
