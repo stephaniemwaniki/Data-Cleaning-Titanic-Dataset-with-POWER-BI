@@ -36,3 +36,18 @@ Procedure: Select column-right click-click “replace value”-enter “value to
 - Cleaning Survived column
 by renaming it to Survival and replaced values 0 with died and 1 with survived.
 Procedure: add column tab-column from examples-replace value then click CTRL+ENTER.
+# New Dataset Overview
+The new dataset formed has the following columns:
+- PassengerId
+- Passenger class
+- Title
+- Other names
+- Surname
+- Gender
+- Age
+- Family size
+- Ticket
+- Fare
+- Cabin
+- Embarked
+- Survival
