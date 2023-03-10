@@ -2,7 +2,7 @@
 # Dataset Overview
 I did data cleaning on the Titanic dataset which comprises of information about 891 passengers who were in the Titanic ship that sank in 1912.
 The dataset is made up of the following columns:
-PassengerId - Id of all 891 passengers.
+- PassengerId - Id of all 891 passengers.
 Pclass - the passenger class each passenger was in the ship.
 Name - Name of the passengers.
 Sex - Gender of the passengers.
