@@ -51,3 +51,4 @@ The new dataset formed has the following columns:
 - Cabin
 - Embarked
 - Survival
+[Titanic Data.xlsx](https://github.com/stephaniemwaniki/Data-cleaning-Titanic-Dataset-with-POWER-BI/files/10944000/Titanic.Data.xlsx)
