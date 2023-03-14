@@ -16,7 +16,7 @@ The dataset is made up of the following columns:
 - Embarked – Where each passenger embarked on the ship.
 - Survived - If the passenger survived or not.
 # Data Cleaning
-Data cleaning was done using Power BI.
+Data cleaning was done using Power BI. The tasks involved were:
 -  Cleaning Pclass column
 by changing values 1, 2, 3 to 1st class, 2nd class, 3rd class respectively and renamed column to Passenger Class.            
 Procedure: add column tab-column from examples-replace value then click CTRL+ENTER.
